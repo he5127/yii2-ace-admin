@@ -42,6 +42,6 @@
     "codeception/verify": "~1.0.0"
   },
   "config": {
-    "process-timeout": 1800
+    "process-timeout": 3600
   }
 }
